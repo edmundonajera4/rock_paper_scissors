@@ -1,0 +1,12 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    align-content: center;
+    font-family: arial,sans-serif;
+}
+
+#head {
+    background-color: rgb(206, 206, 206);
+    padding: 3%;
+}
